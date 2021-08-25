@@ -1,0 +1,53 @@
+.titulo {
+
+
+    font-size: xx-large;
+    background-color: cornsilk;
+    text-align: center;
+    margin: 10px;
+    padding: 15px;
+    border: 5px solid black;
+
+}
+
+body {
+
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/897/178/417/colors-fractal-colorful-pattern-wallpaper-preview.jpg);
+    background-size: contain;
+}
+
+p {
+    
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.imgprinc {
+
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+
+.banner {
+
+    width: 800px;
+    height: 200px;
+    background-image: url(https://conhecimentocientifico.r7.com/wp-content/uploads/2020/03/estrelas-o-que-sao-caracteristicas-tipos-as-diferencas-e-curiosidades.jpg);
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+
+
+
+
+
+
